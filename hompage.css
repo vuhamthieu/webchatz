@@ -182,3 +182,17 @@ body{
     width: 100%;
   }
  
+  .video{
+    width: 100%;
+    z-index: 1;
+    position: relative;
+  }
+
+  .chat-now{
+    align-items: center;
+    height: 20px;
+    width: 100px;
+    z-index: 2;
+    background-color: aqua;
+    position: relative;
+  }
